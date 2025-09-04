@@ -129,7 +129,7 @@ border: 5px solid #ffffff;
 border-radius: 10px;
 }
 
-@media(min-width: 40rem){
+@media(min-width: 60rem){
 header{
     padding: 0 60px;
 }
